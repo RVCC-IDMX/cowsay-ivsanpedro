@@ -1,0 +1,27 @@
+{
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "[markdown]": {
+    "editor.defaultFormatter": null,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    }
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": null,
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.defaultFormatter": null,
+    "editor.tabSize": 2
+  },
+  "[css]": {
+    "editor.defaultFormatter": null,
+    "editor.tabSize": 2
+  },
+  "liveServer.settings.donotShowInfoMsg": true
+}
