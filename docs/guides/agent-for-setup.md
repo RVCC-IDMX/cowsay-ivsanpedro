@@ -58,9 +58,9 @@ This tells Agent exactly what to do.
 
 Replace placeholder values with your real information:
 
-- Your actual name
-- Your actual email (use your school email)
-- The license you want (MIT is common)
+- Ivana San Pedro
+- isan2084@stu.raritanval.edu
+- License: MIT
 
 ### One setup, multiple steps
 
